@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brunajpeg
-- 🌱 I’m currently learning Python, html, css and Javascript
+- 🌱 I’m currently learning Python, Html, CSS and Javascript
 
-<!---
-brunajpeg/brunajpeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![brunajpeg's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunajpeg&show_icons=true&theme=transparent)
+
+<div><a href="https://www.linkedin.com/in/bruna-oliveira-g" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
